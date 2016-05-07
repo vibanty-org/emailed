@@ -3,4 +3,3 @@ config/
 *.sublime-settings
 *.sublime-workspace
 *.log
-deploy/
